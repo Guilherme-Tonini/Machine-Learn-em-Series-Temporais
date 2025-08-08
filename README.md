@@ -1,4 +1,4 @@
-# Estudo de Criação de um Modelo Preditivo com Dados da Ibovespa
+# Estudo de Criação de um Modelo Preditivo com Dados da IBOVESPA
 
 ## Instalando Dependencias
 
@@ -24,8 +24,8 @@ Atingir uma acurácia adequada(acima de 70%)
 ## Estrutura dos Arquivos
 
 Notebook.ipynb - Notebook com todo o estudo e análises<br>
-Ibovespa.csv - Dados da Ibovespa referente a 1 ano
-Ibovespa 2.csv - Dados da Ibovespa referente a 2 anos
+Ibovespa.csv - Dados da Ibovespa referente a 1 ano<br>
+Ibovespa 2.csv - Dados da Ibovespa referente a 2 anos<br>
 Ibovespa 3.csv - Dados da Ibovespa referente a 3 anos
 
 ## Tecnologias Utilizadas
